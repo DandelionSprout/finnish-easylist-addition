@@ -1,5 +1,5 @@
 [Adblock Plus 3.4]
-! Version: 21June2020v2
+! Version: 21June2020v3
 ! Title: Adblock List for Finland
 ! Description: Finnish adblock list
 ! Expires: 4 days
@@ -655,6 +655,9 @@ mtvuutiset.fi,mtv.fi,suomiareena.fi,www.studio55.fi,lumijapyry.fi,www.msn.com##.
 ! Adblock check
 murha.info#@#.adsbygoogle
 murha.info#@#.adsbox
+
+! Ruutu ads on free videos
+||nelonenmedia-pmd-ads-spotgate.nm-stream.nelonenmedia.fi^$domain=ruutu.fi
 
 ! -----UNSORTED END-----
 ! -----UNBREAK-----
